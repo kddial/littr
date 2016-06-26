@@ -1,0 +1,58 @@
+body {
+	background-color: #FDFAFA;
+	font-family: "Helvetica Neue",Helvetica,'Source Sans Pro', sans-serif;
+}
+
+.top-bar {
+    height: 100px;
+    background-color: #1D1D1D;
+    margin-bottom: 50px;
+}
+
+.top-bar-text-cont {
+	margin-left: 20px;
+}
+.top-bar-text-font {
+	font-weight: lighter;
+	font-style: italic;
+	font-size: 48px;
+	color: white;
+}
+
+.product-cont {
+    border-style: solid;
+    border-width: 0.5px;
+    border-color: #DCDCDC;
+    background-color: #FFFFFF;
+}
+
+.product-text {
+	font-weight: 100;
+	font-size: 30px;
+}
+
+.lit-button {
+	background-color: #1D1D1D;
+	font-weight: 100;
+	font-size: 30px;
+	letter-spacing: 30px;
+	color: white;
+
+    border-radius: 10px;
+    padding: 5px; 
+    width: inherit;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.lit-button a{
+	color: white;
+}
+
+.img-center {
+    display: block;
+    margin: 0 auto;
+}
