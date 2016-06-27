@@ -27,7 +27,7 @@ body {
     background-color: #FFFFFF;
 }
 
-/* mobile devices */
+/* mobile devices margins */
 @media (max-width: 991px) {
 	.product-cont {
 	    margin-left: 40px;
@@ -35,16 +35,13 @@ body {
 	}
 }
 
-/* desktop devices */
+/* desktop devices margins */
 @media (min-width: 992px) {
 	.product-cont {
 	    margin-left: 10px;
 	    margin-right: 10px;
 	}
 }
-
-
-
 
 .product-text {
 	font-weight: 100;
@@ -73,3 +70,12 @@ body {
 }
 
 
+.title-container {
+	margin-left: 10px;
+	margin-right: 10px;
+
+}
+
+.fire-emoji {
+	margin-top: 10px;
+}
